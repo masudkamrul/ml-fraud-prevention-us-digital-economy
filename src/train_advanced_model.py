@@ -84,3 +84,7 @@ print("ROC AUC Score:", round(auc, 3))
 # Save trained model
 joblib.dump(pipeline, "advanced_fraud_model.joblib")
 print("\n🚀 Advanced model saved as advanced_fraud_model.joblib")
+
+
+Add advanced ML model pipeline with preprocessing and ROC AUC metrics
+
